@@ -12,6 +12,10 @@ syntax enable
 
 set expandtab
 set shiftwidth=2
+set tabstop=2
 
 set ignorecase
 set smartcase
+
+set autoindent
+set smartindent
